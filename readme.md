@@ -88,6 +88,8 @@ msh >crc8 123456789
 123456789 :
 CRC8               = 0x8f 
 
+msh >crc 
+
 crc: CRC algorithm sample program
 Copyright (c) 2025 wangwang105(Wang rong wen)
 
