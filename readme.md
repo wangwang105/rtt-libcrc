@@ -67,7 +67,7 @@ Version (v1.0.0)  --->
 [*] using sample crc
 ```
 
-** using sample crc** ：开启 licrc  使用示例
+`using sample crc` ：开启 licrc  使用示例,之后变可以在MSH中测试crc例程
 
 配置完成后让 RT-Thread 的包管理器自动更新，或者使用 pkgs --update 命令更新包到 BSP 中。
 
@@ -122,4 +122,4 @@ CRC32              = 0xcbf43926
 ## 联系方式
 
 - 维护：[wangwang105](https://github.com/wangwang105)
-- 主页：<https://github.com/RT-Thread-packages/libcrc>
+- 主页：<https://github.com/wangwang105/rtt-libcrc>
